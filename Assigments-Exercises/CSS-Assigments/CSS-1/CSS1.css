@@ -6,3 +6,10 @@
 h1 {
   color: #1877f2;
 }
+
+p {
+  color: grey;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
