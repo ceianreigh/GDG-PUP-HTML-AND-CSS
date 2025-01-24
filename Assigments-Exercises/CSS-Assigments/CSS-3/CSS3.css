@@ -71,9 +71,11 @@ body {
   color: #777777;
   margin-top: 18px;
 }
-/* title */
 
-/* bio */
+/* social */
+.social {
+  margin: 20px 0;
+}
 
 /* social ul */
 
