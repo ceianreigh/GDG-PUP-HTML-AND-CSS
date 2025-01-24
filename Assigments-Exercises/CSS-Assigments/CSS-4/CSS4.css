@@ -15,6 +15,11 @@ h1 {
 }
 
 /* #subtitle */
+#subtitle {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  color: #f1f1f1;
+}
 
 /* .flexboxContainer */
 
