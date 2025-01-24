@@ -8,6 +8,11 @@ body {
 }
 
 /* h1 */
+h1 {
+  text-align: center;
+  font-family: "Bebas Neue", sans-serif;
+  color: #f1f1f1;
+}
 
 /* #subtitle */
 
