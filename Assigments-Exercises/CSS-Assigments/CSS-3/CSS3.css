@@ -58,22 +58,19 @@ body {
   color: #333333;
 }
 
+/* profile-info title*/
 .profile-info .title {
   font-size: 18px;
   color: #555555;
   margin: 5px 0;
 }
 
+/* profile-info bio*/
 .profile-info .bio {
   font-size: 18px;
   color: #777777;
   margin-top: 18px;
 }
-
-/* profile-info title*/
-
-/* profile-info bio*/
-
 /* title */
 
 /* bio */
