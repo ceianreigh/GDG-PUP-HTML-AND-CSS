@@ -64,6 +64,12 @@ body {
   margin: 5px 0;
 }
 
+.profile-info .bio {
+  font-size: 18px;
+  color: #777777;
+  margin-top: 18px;
+}
+
 /* profile-info title*/
 
 /* profile-info bio*/
