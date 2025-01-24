@@ -25,6 +25,11 @@ body {
 }
 
 /* profile-content */
+.profile-content {
+  padding: 20px;
+  position: relative;
+  margin-top: -50px;
+}
 
 /* profile-picture */
 
