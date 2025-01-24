@@ -93,5 +93,12 @@ body {
 }
 
 /* social a */
+.social a {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+}
 
 /* social img */
