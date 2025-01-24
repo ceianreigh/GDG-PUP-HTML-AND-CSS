@@ -60,5 +60,10 @@ a {
 }
 
 /* img */
+img {
+  width: 80%;
+  display: block;
+  text-align: center;
+}
 
 /* .flexboxContainer > div:hover */
