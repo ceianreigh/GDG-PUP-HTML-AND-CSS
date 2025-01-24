@@ -58,6 +58,12 @@ body {
   color: #333333;
 }
 
+.profile-info .title {
+  font-size: 18px;
+  color: #555555;
+  margin: 5px 0;
+}
+
 /* profile-info title*/
 
 /* profile-info bio*/
