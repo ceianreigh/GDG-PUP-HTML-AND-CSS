@@ -87,6 +87,11 @@ body {
   gap: 10px;
 }
 
+/* social li */
+.social li {
+  display: inline-block;
+}
+
 /* social a */
 
 /* social img */
