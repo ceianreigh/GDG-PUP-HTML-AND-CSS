@@ -78,6 +78,14 @@ body {
 }
 
 /* social ul */
+.social ul {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  gap: 10px;
+}
 
 /* social a */
 
