@@ -33,6 +33,23 @@ h1 {
 }
 
 /*.flexboxContainer > div */
+.flexboxContainer > div {
+  width: 20%;
+  height: 50%;
+  background-image: linear-gradient(
+    to right,
+    rgba(12, 62, 224, 0),
+    rgb(150, 105, 47)
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5%;
+  padding: 3%;
+  transition-duration: 0ms;
+  cursor: pointer;
+}
 
 /* a */
 
